@@ -1,7 +1,7 @@
 
 ---
 
-# Controle de Gastos Pessoais
+# Controle de Gastos
 
 Este projeto é uma aplicação simples em JavaScript que permite controlar seus gastos pessoais de maneira organizada. Com base no seu salário ou lucro mensal, o sistema distribui suas finanças em três categorias: **Gastos Essenciais**, **Estilo de Vida**, e **Reserva**, seguindo a regra 50/30/20.
 
