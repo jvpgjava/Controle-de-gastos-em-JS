@@ -63,7 +63,7 @@ Para gastos essenciais, você deve deixar R$ 2500.00
 - **JavaScript**: Linguagem principal utilizada para o desenvolvimento da lógica do sistema.
 - **prompt-sync**: Pacote utilizado para capturar a entrada de dados do usuário via terminal.
 
-## Melhorias Futuras
+## Melhorias futuras que pretendo incrementar
 
 - Implementar uma interface gráfica para melhorar a usabilidade.
 - Adicionar suporte a múltiplas moedas.
